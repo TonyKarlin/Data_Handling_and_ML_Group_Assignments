@@ -8,4 +8,5 @@ Group Assignments for Data Handling and Machine Learning course
 | 1. Data preprocessing | [Data preprocessing](/Data%20Preprocessing/01-assignment-data-preprocessing.ipynb) |
 | 2. kNN classifier | [kNN classifier](/kNN%20Classifier/02-assignment-kNN-classifier.ipynb) |
 | 3. Decision trees & Random Forests | [Decision trees & Random Forests](/Decision%20trees%20and%20Random%20forests/03-decision-trees-and-random-forests.ipynb) |
-| 4. Regression models | [Linear and Logistic regression](https://github.com/TonyKarlin/Data_Handling_and_ML_Group_Assignments/blob/main/Linear%20and%20Logistic%20regression/04-linear-%26-logistic-regression.ipynb) |
+| 4. Regression models | [Linear and Logistic regression](/Linear%20and%20Logistic%20regression/04-linear-&-logistic-regression.ipynb) |
+| 5. Clustering & association | [Clustering & association](/Clustering%20and%20Association%20rule%20mining/05-clustering-&-association-rule-mining.ipynb) |
